@@ -3,7 +3,7 @@ body{
 }
 
 p{
-    margin-top: 50px;
+   
     background-color: whitesmoke;
     padding: 10px;
     border-style:solid;
@@ -11,4 +11,18 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     text-decoration:solid;
     color: darkblue;
+    box-shadow: 0em 0em 0.5em rgba(253, 37, 37, 0.938);
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.TituloTrabajo{
+    margin-left: 600px;
+    color: rgb(17, 168, 67);
+    box-shadow: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0.1em 0.1em 0.05em rgb(1, 6, 8);
+
 }
